@@ -1,0 +1,30 @@
+/* comment */
+
+/**{*/
+    /*width: 100px;*/
+    /*height: 100px;*/
+/*}*/
+li{height: 35px;
+    background-color: aliceblue;
+}
+#e {color: mediumorchid;}
+#i{color: aquamarine;}
+#q {color: blueviolet;}
+#w {color: chartreuse;}
+#r{color: rgba(123,542,234,3);}
+#t{color: brown;}
+#y{color: chocolate;}
+#u {color: darkseagreen;}
+#o{color: #1F1E99;}
+#p{color: rgb(743,153,084);}
+img{border: 12px dotted #f00;}
+ul li {font-size:35px;
+}
+ul li span {color: crimson;}
+body >a {text-decoration: none;
+font-size: 28px;}
+p a {color: rgba(666,111,111,0.5)}
+[href*="#"]{
+    font-family: cursive;}
+li[data-red]{text-decoration: underline;
+color: red;}
